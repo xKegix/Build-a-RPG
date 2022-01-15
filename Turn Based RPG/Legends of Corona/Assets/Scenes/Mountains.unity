@@ -298,6 +298,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 412574680, guid: d630b6b7d18536c43a00485401f9a6df, type: 3}
+      propertyPath: transitionAreaName
+      value: Mountains - 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7058984756931016260, guid: d630b6b7d18536c43a00485401f9a6df, type: 3}
       propertyPath: transitionName
       value: Mountains - 1

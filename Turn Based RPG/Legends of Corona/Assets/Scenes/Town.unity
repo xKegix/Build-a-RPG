@@ -753,7 +753,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 412574680, guid: d630b6b7d18536c43a00485401f9a6df, type: 3}
       propertyPath: transitionAreaName
-      value: Mountains - 1
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 412574681, guid: d630b6b7d18536c43a00485401f9a6df, type: 3}
       propertyPath: m_LocalPosition.x
